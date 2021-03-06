@@ -1,0 +1,160 @@
+<html>
+<head>
+<head>
+<meta charset="utf-8" />
+<title>Jack Newman WA5 Portfolio</title>
+
+<style>
+	* {
+	  box-sizing: border-box;
+	}
+
+	body {
+	  background: -webkit-gradient(linear, left top, left bottom, from(#23B2EE), to(#7DF9FF)) fixed;
+	  padding: 20px;
+	  font-family: Arial;
+	}
+
+	#container {
+		width: 960px; margin: 0 auto;
+	}
+
+	#logo {
+		margin: 10px auto 0 auto; position: relative; width: 183px;
+	}
+//
+	ul#nav {
+		width: 940px; list-style: none; overflow: hidden; margin: -134px auto 25px auto;
+	}
+		ul#nav li {
+			height: 33px; float: left; padding: 13px 0 0 0;
+			background: url(images/nav-bg.png);
+			font-weight: bold; text-align: center; text-transform: uppercase;
+		}
+			ul#nav li:nth-child(1) {
+				margin: 0 60px 0 0;
+			}
+			ul#nav li:nth-child(2) {
+				margin: 0 316px 0 0;
+			}
+			ul#nav li:nth-child(3) {
+				margin: 0 60px 0 0;
+			}
+			ul#nav li:nth-child(4) {
+				margin: 0;
+			}
+
+			ul#nav li a {
+				color: black; text-decoration: none;
+			}
+				ul#nav li a:hover {
+					color: red;
+				}
+//
+    font-family: Arial;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=button] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=button]:hover {
+    background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+    border-radius: 5px;
+    background-color: #0892D0;
+    padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+</style>
+</head>
+<body>
+	<body>
+	<div id="container">
+		<p id="logo"><a href="#"><img src="Doesn't exist yet since I'm still developing it" alt="Not yet created JMN logo" /></a></p>
+
+		<ul id="nav">
+			<li><a href="https://jane5792.github.io/3402/wa6.html">Home Index</a></li>
+			<li><a href="https://jane5792.github.io/3402/about2.html">About</a></li>
+			<li><a href="https://jane5792.github.io/3402/portfolio2.html">Portfolio</a></li>
+			<li><a href="https://jane5792.github.io/3402/contact2.html">Contact</a></li>
+	</ul>
+
+<br>
+<br>
+
+<div class="container">
+  <div>
+    <h2>Contact Me</h2>
+    <p>Swing by for a cup of coffee, or leave us a message:</p>
+  </div>
+  <div class="row">
+
+    <div class="column">
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="button" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+</body>
+</html>
