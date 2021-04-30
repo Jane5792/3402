@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jack Newman's wa13</title>
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div class="header-wrap">
+	<div class="logo">
+		<h1>Assignment 13</h1>
+  </div>
+</div><!---header-wrap-End--->
+
+<div class="menu-wrap">
+	<div class="menu">
+		<ul>
+        	<li><a href="http://jane5792.github.io/3402/index.html" class="active">Home</a></li>
+    </ul>
+  </div>
+</div><!---menu-wrap-End--->
+
+<div class="page-wrap">
+<div class="wrap3">
+  <div class=" leftcol">
+  <div class="panel">
+  	<div class="title">
+  		<h1>Shiba, </h1>
+        <span>the god... dog... Cryptocurrency? of ambiguity and paradox</span>
+    </div>
+  	<div class="content">
+    		<p>Blockchains are all the buzz these days, usually as a buzzword to illustrate the forefront and unfathomable depth of some software or computer security measure, but the reality of this tool is oft glossed over. First allow me to dispel the ever-present murk of hype and condemnation: blockchains are cryptographic measures that state authenticity, lineage, age, and sometimes function. That is all they do since they are a string of letters, symbols, and numbers or a mixture of all three. Blockchains only get interesting when their accompanying decryption (and thus encryption) is used to associate them with <a href="https://www.anf.es/pdf/Haber_Stornetta.pdf" style="display: inline;">something.</a></p>
+        <p>In the case of Dogecoin, a cryptocurrency using its own blockchain “hash,” that associated value is as currency with blockchain attributes denoting transaction details (time, number of exchanges, etc.) so that it can be used in lieu of traditional sovereign currency. But that is not what Dogecoin was created for, this cryptocurrency was created as a commentary on the backing of sovereign currency. The creators made Dogecoin in the image of a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3091219" style="display: inline;" >meme</a> with no cap on the number of Dogecoins that could be produced, illustrating how a currency capable of <a href="https://finance.yahoo.com/news/inflation-influencers-investors-send-dogecoin-173528733.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAFRzIui-pRGIyhMLcL-v7stDGkHotGQlUzs9daH-rn46latYQZ-icV-Xv2pQuP4UNTa8H0m6vJKeKquo5ozEPa7N0TUuaQtQsVc6hZPVETTheQ8PFOs7gxD0Go4B3G95Q4hPyqNJhzz5K0aWcYBr8nklRbApvPCukftjweIaN8cV" style="display: inline;">infinite inflation</a> could still have value due to belief in the backing force behind said currency. Which in this case is a joke and the criticism of fiat currencies and banking’s credit system. </p>
+        <p>Which is incredibly interesting considering cryptocurrencies provide a plethora of applications that traditional sovereign currencies cannot provide namely: person to person transactions without the involvement of facilitating third parties anywhere connected to the internet, essentially removing banks, vendors, brokers, firms, etc. From transactions, making it possible to solve or improve upon many of the problems that plague currency transactions, laws, security, business processes, and much more if adopted as a fiat currency. </p>
+        <p>Dogecoin illustrates that a that blockchains can make even a meme a viable fiat currency, which could ensure secure direct digital payments, without third parties as I mentioned previously, that would be secure from the technical and cybersecurity problems that plague traditional sovereign currency systems where governments and banks: manipulate or control transactions, mismanage, and improperly or mistakenly direct client funds. All of which are possible so long as the users of the cryptocurrency have enough trust in the guarantor of the cryptocurrency as a fiat money, since its value would be determined by the stability of the guarantor and the trust users have in it.  </p>
+        <p>Which is not actually that farfetched since all paper money is fiat money, meaning that it only has value so long as people trust the guarantor (most likely the government’s treasury department in actuality) to uphold the commodity value the fiat money represents. The only difference is that cryptocurrencies can preclude governments from pressuring third parties to confiscate the money since it can be solely held by the owner, and cannot be inflated by the government because of the private keys. Indeed, cryptocurrencies are especially popular in Venezuela for precisely these <a href="https://qz.com/1300832/bitcoin-trading-in-venezuela-is-skyrocketing-amid-14000-inflation/" style="display: inline;">reasons.</a> Freeing the economy from the cybersecurity incidents that perpetually affect the traditional financial institutions, precluding hostile actors from stealing personal information and funds from these third parties. Personal information that is commonly dispersed between these third parties, and retained as modes of verification. Potentially making blockchain currencies completely private, precluding most fraudulent transactions, and removing the possibility of the targeted daily attacks upon financial institutions since they are unnecessary. </p>
+				<p>Removing these middlemen also does more than remove a security and privacy threat, it also reduces the cost of transaction since people can transfer value directly between parties avoiding these fees while also enabling a different form of online revenue. The most prominent of which is <a href="https://www.computerweekly.com/feature/Electronic-commerce-with-microtransactions" style="display: inline;">microtransactions,</a> I.e., the ability to make transfers of only a few cents (or even fractions of a cent) at a time. Replacing the need for advert-funded (and thus driven) content, where people can opt to pay for the amount of time they actually access the article, page, or service instead of paying for subscription services that are not tailored to the amount of time users use them. Drastically reducing the overhead users incur while transitioning online platforms from marketing users for ad revenue to users actively paying for content and services they enjoy or <a href="https://basicattentiontoken.org/" style="display: inline;">use,</a> there is no way for traditional sovereign currency to support these microtransactions as only cryptocurrency provides a solution for these low-to-no fee transactions and metered or usage access to content (I.e., club content). </p>
+        <p>But all that pales in comparison to blockchain money’s ability to place contracts within <a href="https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html" style="display: inline;">transactions,</a>, for example: in today’s world if you wanted to pay someone a sum of money after several years you would need to contract a lawyer to create a trust that will be held and managed by a third party to disburse at the appointed time, however with cryptocurrency these stipulations can be programmed into the money itself without involving any of the aforementioned intermediaries. This is of course the simplest example, these contracts can be employed during any transactions to employ a set of digital promises or protocols through which the transacting parties must operate if they wish to be paid. Meaning that these contracts could be applied in a wide range of currently used and hypothetical situations for finance, law, identity and registration, rentals, and even supply chain logistics and management.  </p>
+        <p>However, these smart contracts are not some silver bullet since it would be crucial that the transacting parties making the contract are certain that their code will function in the way that it is intended, and will not be susceptible to attack. Meaning that just like traditional sovereign currencies cryptocurrencies have had some high-profile smart contract failures <a href="https://reason.com/2016/08/16/dao-gets-hacked/" style="display: inline;">failures</a> resulting in millions of dollars in losses, yet, even with that caveat in mind it is likely that smaller routine smart contracts could be created relatively quickly and be integrated into the preexisting arbitration industries for larger contracts. </p>
+				<p>The previous examples show how cryptocurrencies would replace-or improve upon-the functions already provided by traditional sovereign money, but blockchain economies offer a much wider range of applications. Cryptocurrency blockchain tokens can potentially represent anything that could be digitized (making it quite possible to downluad the , coupled with the virtual immutability of their blockchain these tokens are censorship-resistant. Meaning that any entry added to the blockchain can be thought of as an “immutable” record online so long as the cryptocurrency exists within open networks and operates upon a scarce token component. As illustrated by a Chinese blogger who reported a major pharmaceutical company had been manufacturing and selling unsafe <a href="https://futurism.com/the-byte/unsafe-vaccines-china-blockchain" style="display: inline;">vaccines.</a> The Chinese government censored this reporting and removed it from their national intranet, preventing it from being posted online, however the blogger attached his exposé to the metadata of a small Ethereum transaction thus immortalizing the report’s existence on the internet so long as Ethereum exists. </p>
+        <p>This application could be crucial in situations of public news or as records of: commercial, governmental, and legal information is tracked and maintained to prevent corruption. Some have also <a href="https://www.coindesk.com/blockchain-land-registry-solution-seeking-problem" style="display: inline;">envisaged</a> using blockchains for title registration and ownership documentation, cutting down on the need for costly administration and title insurance while centralizing these documents in an unobtrusive and secure manner. Or as methods where blockchains store and anonymize user <a href="https://www.storj.io/" style="display: inline;">files</a> to prevent the large-scale data breaches of services like Dropbox or Google Drive. </p>
+				<p>While a cursory glance at Dogecoin and cryptocurrencies reveals a community <a href="https://twitter.com/coincenter/status/976182050616152064" style="display: inline;">under fire</a> since they have been created as criticisms or as proofs of concept, with criticisms like,  </p>
+				<p style="margin-left:10%; margin-right:10%;">“There is nothing that can done with cryptocurrency that cannot be done with sovereign currency that is meritorious and helpful to society.” - Congressman Brad Sherman </p>
+        <p>The advances and innovations of cryptocurrency can yield benefits that traditional sovereign currencies never can, and while it is never a bad thing to exercise caution towards new technologies until it is tested and understood by the public it does not mean that blockchains or cryptocurrencies are either a bad idea or a fad. Which is why blockchain enthusiasts have spent so much time and effort improving and building out new infrastructure to bring these innovations to more and more people, the only thing necessary is a policy environment that preserves legislation and enough space for tinkerers and innovators to develop new and better applications of blockchain and cryptocurrency technologies to ensure that society gets the most value possible. After all... Dogecoin started out as a joke and a commentary about trust in pieces of paper, and it has grown into an example of a functioning digital economy capable of transacting across nations. </p>
+    </div>
+  </div>
+  </div>
+
+  <div class="rightcol">
+  	<div class="panel">
+  		<div class="title"><h1>Assignment 13<br /> Visualizations</h1></div>
+    	<div class="content">
+        	<div class="icon"><img src="wa13viz1thumbnail.jpg" alt="icon" width="60" height="58"/></div>
+            <spna>Dogecoin</spna>
+            <p>Historical price and volume data.</p>
+        </div>
+				<div class="content marTop40">
+            <div class="button marTop30"><a href="http://jane5792.github.io/3402/wa13 CSS/wa13viz1.html">Dogeviz1</a></div>
+        </div>
+        <div class="content marTop40">
+        	<div class="icon"><img src="wa13viz1thumbnail.jpg" alt="icon" width="60" height="58"/></div>
+            <spna>Dogecoin</spna>
+            <p>Historical price comparison vs market adjustment averages.</p>
+        </div>
+        <div class="content marTop40">
+            <div class="button marTop30"><a href="http://jane5792.github.io/3402/wa13 CSS/wa13viz2.html">Dogeviz2</a></div>
+        </div>
+    </div>
+  </div>
+	</div>
+</div><!---copyright-wrap-End--->
+</body>
+</html>
